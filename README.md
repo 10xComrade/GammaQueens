@@ -1,7 +1,7 @@
 # GammaQueens
 
 <p align="center"> 
-  <img width="400em" height="400em" src="https://github.com/10xComrade/GammaQueens/assets/165196971/f5e73f64-1133-4045-8513-68e5fb5c770f" />
+  <img width="400em" height="400em" src="https://github.com/10xComrade/GammaQueens/assets/165196971/acecdeb0-a99a-4bdc-b55e-908d76eef1d7" />
 </p>
 
 <p align="center">
